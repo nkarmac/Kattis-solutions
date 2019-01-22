@@ -1,5 +1,3 @@
-// V00819384 Karamanian, Nicolaus
-
 // importing scanner
 import java.util.*;
 

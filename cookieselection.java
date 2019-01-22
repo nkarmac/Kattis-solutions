@@ -1,5 +1,3 @@
-// V00819384 Karamanian, Nicolaus
-
 import java.util.*;
 
 public class cookieselection	{
